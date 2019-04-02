@@ -1,3 +1,4 @@
+-- set mapred.job.queue.name=root
 set fs.file.impl.disable.cache=true;
 set fs.hdfs.impl.disable.cache=true;
 set hive.auto.convert.join.noconditionaltask=true;
